@@ -1,3 +1,5 @@
+[Homepage.pdf](https://github.com/user-attachments/files/17674877/Homepage.pdf)
+
 Title: Employee Management System
 
 Description: 
@@ -8,6 +10,7 @@ Description:
 
 ❖ The Employee Management is designed to centralize employee data management, automate project assignment and tracking, generate pay slips, enhance security and data protection, and improve reporting and analytics. By implementing this system, oraganizations can improve employee data management, enhance project collaboration, automate
 payslip generation, and increase overall productivity.
+
 
 ❖ This application provides a secure and intiative interface for administrators and employees to access and manage relevant information. Key features
 include employee registration, admin dash board, project management, pay slip generation, validation and security measures, reporting and analytics.
@@ -104,3 +107,4 @@ RESTful API: Facilitates communication between the frontend and backend, using s
 ❖ Database: MySQL
 
 ❖ API: RESTful API for data exchange.
+
